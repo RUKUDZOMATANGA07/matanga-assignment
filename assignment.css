@@ -1,0 +1,36 @@
+.mytittle{
+    color: gold;
+    background: midnightblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-shadow: orange;
+}
+.home{
+    color: gold;
+    background: midnightblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-shadow: orange; 
+}
+.sales{
+    color: gold;
+    background: midnightblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-shadow: orange; 
+}
+.mybackground{
+    background: orangered;
+    color: black;
+    height: 1200px;
+    window
+}
+}
+.mylabel{
+    border: 1px inset: #0076ff;
+    border-radius:5px;
+    background:#428bca;
+    color: #fff;
+    padding-left: 4px;
+    margin-right:3px;
+}
